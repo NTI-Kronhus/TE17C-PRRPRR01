@@ -11,7 +11,7 @@ Här kommer aktuell information att uppdateras från vecka till vecka.
 Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa 
 :----:|-----------|-----------|----------------
 [34](#grovplanering) | **INTROVECKA**  | **INTROVECKA** | *null*
-[35](#grovplanering) | Introduktion till [GitHub](https://github.com) | Laboration GitHub | [Ladda hem Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/photon/R/eclipse-inst-win64.exe)
+[35](https://github.com/NTIGBG/TE17C-PRRPRR01/tree/master/v35/laboration) | Introduktion till [GitHub](https://github.com) | Laboration GitHub | [Ladda hem Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/photon/R/eclipse-inst-win64.exe)
 [36](#grovplanering) | Introduktion till Java & Eclipse | Laboration GitHub, Java & Eclipse | [Läxa GitHub](#grovplanering)
 [37](#grovplanering) | Datatyper | Villkor och Operatorer | Hemuppgift villkor
 [38](#grovplanering) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](#grovplanering) från Kattis
