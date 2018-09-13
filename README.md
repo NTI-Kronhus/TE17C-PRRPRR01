@@ -3,7 +3,7 @@ Här kommer aktuell information att uppdateras från vecka till vecka.
 
 # Programmering 1 för TE17C
 #### Skola: NTI Gymnasiet Kronhusgatan
-#### Lärare: Joakim '[JaoK](https://github.com/jaok)' Ohlsson 
+#### Lärare: Dobondi '[BogdanDobondi](https://github.com/BogdanDobondi)' Dobondi 
 #### Kurskod: [PRRPRR01](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DPRR%26courseCode%3DPRRPRR01%26lang%3Dsv%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_PRRPRR01)
 
 # Grovplanering
@@ -12,8 +12,8 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 :----:|-----------|-----------|----------------
 [34](#grovplanering) | **INTROVECKA**  | **INTROVECKA** | *null*
 [35](https://github.com/NTIGBG/TE17C-PRRPRR01/tree/master/v35/laboration) | Introduktion till [GitHub](https://github.com) | Laboration GitHub | [Ladda hem Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/photon/R/eclipse-inst-win64.exe)
-[36](#grovplanering) | Introduktion till Java & Eclipse | Laboration GitHub, Java & Eclipse | [Läxa GitHub](#grovplanering)
-[37](#grovplanering) | Datatyper | Villkor och Operatorer | Hemuppgift villkor
+[36](#grovplanering) | Genomgång pseudokod | Genomgång logik | *null*
+[37](#grovplanering) | Genomgång Datatyper | Livekodning om Datatyper | Läxa GitHub & Java
 [38](#grovplanering) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](#grovplanering) från Kattis
 [39](#grovplanering) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
 [40](#grovplanering) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
