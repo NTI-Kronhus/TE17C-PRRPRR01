@@ -1,27 +1,33 @@
 # Aktuell information:
-Här kommer aktuell information att uppdateras från vecka till vecka.
 
-# Programmering 1 för TE17C
-#### Skola: NTI Gymnasiet Kronhusgatan
-#### Lärare: Dobondi '[BogdanDobondi](https://github.com/BogdanDobondi)' Dobondi 
+### [Uppgift Metoder](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42/uppgift_metoder)
+
+
+# Bra länkar om programmering:
+
+* [Youtube-spellista Java på svenska](https://www.youtube.com/watch?v=EJxmM9JYCwg&list=PLpkWX5olvmC9mkjYhvGbl7VSIMAI7MoFC)
+
+# Programmering 1 för TE17D
+#### Skola: NTI Kronhus
+#### Lärare: Joakim '[JaoK](https://github.com/jaok)' Ohlsson 
 #### Kurskod: [PRRPRR01](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DPRR%26courseCode%3DPRRPRR01%26lang%3Dsv%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_PRRPRR01)
 
 # Grovplanering
 
 Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa 
 :----:|-----------|-----------|----------------
-[34](#grovplanering) | **INTROVECKA**  | **INTROVECKA** | *null*
-[35](https://github.com/NTIGBG/TE17C-PRRPRR01/tree/master/v35/laboration) | Introduktion till [GitHub](https://github.com) | Laboration GitHub | [Ladda hem Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/photon/R/eclipse-inst-win64.exe)
-[36](#grovplanering) | Genomgång pseudokod | Genomgång logik | *null*
-[37](#grovplanering) | Genomgång Datatyper | Livekodning om Datatyper | Läxa GitHub & Java
-[38](#grovplanering) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](#grovplanering) från Kattis
+[34](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34) | **INTROVECKA**  | Introduktion till Kursen | [Installera Github](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34/uppgift)
+[35](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v35) | Introduktion till [GitHub](https://github.com) | [Laboration GitHub](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v35/laboration) | [Installera Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R2/eclipse-inst-win64.exe)
+[36](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36) | Introduktion till Java & Eclipse | Genomgång Datatyper | [Läxa GitHub & Java](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36/uppgift)
+[37](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Studiedag | Villkor och Operatorer | [Hemuppgift villkor](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v37/uppgift)
+[38](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift) från Kattis
 [39](#grovplanering) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
 [40](#grovplanering) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
-[41](#grovplanering) | Introduktion till Metoder | Jobba själv med Metoder | Läxa om Metoder 
+[41](#grovplanering) | Introduktion till Metoder | Inbyggda metoder i String | Läxa om Metoder 
 [42](#grovplanering) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
 [43](#grovplanering) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
-[44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | Lämna in uppgift 
-[45](#grovplanering) | Arrayer | Uppgifter om Arrayer | *null* 
+[44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | *null*
+[45](#grovplanering) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer 
 [46](#grovplanering) | Sökning | Sortering | *[Bonusuppgift](#grovplanering) från Kattis* 
 [47](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
 [48](#grovplanering) | Repetition på allting hittills | Grupparbete ordlista | *[Bonusuppgift](#grovplanering) från Kattis* 

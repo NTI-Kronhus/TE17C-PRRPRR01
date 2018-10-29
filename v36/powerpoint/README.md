@@ -1,1 +1,0 @@
-## Powerpoint från KTH om Datatyper
