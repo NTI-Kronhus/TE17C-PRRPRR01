@@ -5,6 +5,13 @@
 * Skriv ett program som läser in en följd av tal och multiplicerar ihop dem. <br>
   Inläsningen ska avbrytas då produktens belopp överstigit 100 000 eller då 10 st tal skrivits in. <br>
 * Skriv ett program som beräknar summan av alla tal under 10 000 som är jämnt delbara med 7. <br> _7, 14, 21, 28 osv_
+* Skapa ett program som med hjälp av loopar skriver ut följande mönster:
+```
+x
+xx
+xxx
+xxxx
+```
 * Skapa ett program som skriver ut en pyramid efter att användaren matat in antal rader pyramidens bas ska vara.
 ``` 
 Bas: 4
