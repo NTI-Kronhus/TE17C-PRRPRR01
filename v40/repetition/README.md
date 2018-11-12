@@ -49,9 +49,9 @@ Operator | Räknesätt
 Operator | Jämförelse
 ---------|-----------
 < | mindre än
-> | större än
+\> | större än
 == | lika med
->= | större än eller lika med
+\>= | större än eller lika med
 <= | mindre än eller lika med
 != | inte lika med
 
