@@ -26,6 +26,11 @@ public class RepetitionFredag {
 			}
 
 			// SKRIV IN ETT VILLKOR SÅ ATT TAL > 20 INTE SKA SKRIVAS UT
+			if (tal1 > 20) {
+				System.out.println("Your number is too big. Please type a number "
+						+ "smaller than or equal to 20! ");
+				i--;
+			}
 
 			// om talet är positivt så utför detta istället
 			else {
@@ -43,6 +48,7 @@ public class RepetitionFredag {
 		}
 
 		average = (double) summa / 10; // (double) gör om int till double
+		average = summa / 10.0; 
 
 		System.out.println(summa);
 		System.out.println(average);
