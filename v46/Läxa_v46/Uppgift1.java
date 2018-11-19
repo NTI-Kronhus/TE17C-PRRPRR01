@@ -1,4 +1,4 @@
-package uppgift;
+package Läxa_v46;
 
 import java.util.Scanner;
 
