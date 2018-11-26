@@ -2,7 +2,7 @@ package metoder_repetition;
 
 import java.util.Scanner;
 
-public class welcome {
+public class Welcome {
 
 	public static void main(String[] args) {
 		

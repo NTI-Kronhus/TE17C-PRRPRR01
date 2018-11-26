@@ -1,6 +1,6 @@
 package metoder_repetition;
 
-public class gravitation {
+public class Gravitation {
 	
 	static double force;
 	
