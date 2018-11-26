@@ -7,7 +7,7 @@ public class Uppgift4 {
 		int summa = 0;
 		for (int i = 1; i < 10000; i++) {
 			if (i % 7 == 0) {
-				summa += i;
+				summa = summa + i;
 			}
 		}
 
