@@ -12,8 +12,10 @@ public class Metoder_exempel {
 		// Variabler
 		double tempCelsius = 32;
 		double tempFahrenheit = 100;
-		double massPerson = 10;
+		double massPerson = 82;
 
+		System.out.println(victorSays("Victor"));
+		
 		System.out.println(celsiusToFahrenheit(tempCelsius) + " °F");
 
 		// Skriver ut och formaterar grader Celsius
@@ -24,6 +26,11 @@ public class Metoder_exempel {
 
 		System.out.printf("Gravity acceleration = %.2f m/s^2 \n",
 				gravityForce(MASS_EARTH, massPerson, GRAVITY_CONSTANT, RADIUS_EARTH) / massPerson);
+	}
+
+	// Metod som hälsar på personen
+	static String victorSays(String name) {
+		return ("Hej " + name);
 	}
 
 	// Metod som omvandlar Celsius till Fahrenheit
@@ -40,9 +47,11 @@ public class Metoder_exempel {
 	}
 
 	// Metod som räknar ut gravitationskraften på jorden
-	static double gravityForce(double MASS_EARTH, double massPerson, double GRAVITY_CONSTANT, double RADIUS_EARTH) {
+	static double gravityForce(double MASS_EARTH, double massPerson,
+			double GRAVITY_CONSTANT, double RADIUS_EARTH) {
 
 		return ((MASS_EARTH * massPerson * GRAVITY_CONSTANT) / (Math.pow(RADIUS_EARTH, 2)));
 	}
+	
 
 }
