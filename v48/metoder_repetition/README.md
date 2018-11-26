@@ -1,5 +1,5 @@
 ### Skapa följande metoder:
-Dina metoder ska vara kommenterade med // kommentarer <br><br>
+Dina metoder ska vara kommenterade med kommentarer // <br><br>
 1. En metod som gör om Kelvin till grader celsius.
 ```java
 static double kelvinToCelsius(double kelvin)
