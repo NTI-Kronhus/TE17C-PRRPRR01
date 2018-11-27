@@ -27,5 +27,5 @@ delta(1,10) => 9
 5. En metod som räknar ut volymen hos en sfär.
 ```java
 static double volumeOfSphere(double radius)
-volumeOfSphere(10) => 4186,67
+volumeOfSphere(10) => 4186.67
 ```
