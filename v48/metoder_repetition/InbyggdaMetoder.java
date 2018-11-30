@@ -10,6 +10,7 @@ public class InbyggdaMetoder {
 
 		String str = sc.nextLine();
 
+		
 		// JÄMFÖRA STRÄNGAR ANVÄND .equals();
 		if (str.equals("Hej")) {
 			System.out.println("HEJ");
