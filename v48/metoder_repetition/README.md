@@ -1,31 +1,10 @@
-### Skapa följande metoder:
-Dina metoder ska vara kommenterade med kommentarer // <br><br>
-1. En metod som gör om Kelvin till grader celsius.
-```java
-static double kelvinToCelsius(double kelvin)
-kelvinToCelsius(50) => -223.15
-```
+## Läxa tills på tisdag 4/12
 
-2. En metod som omvandlar cm^3 till m^3.
-```java
-static double cubicCmToCubicM(double radius)
-cubicCmToCubicM(1000) => 0,001
-```
+### [Videor som förklarar metoder](https://www.youtube.com/watch?v=4vFHOQNoDSc&index=15&list=PLpkWX5olvmC9mkjYhvGbl7VSIMAI7MoFC) - kolla på avsnitt 15-22.
 
-3. En metod som tar in två personers namn och åldrar, skriver ut en hälsning till bägge personer och returnerar summan av deras åldrar.
-```java
-static int greetingPlusAge(String name1, String name2, int age1, int age2)
-greetingPlusAge("Tomas", "Henrik", 23, 28) => 51
-```
+1. Skapa en metod ```double volume(double radius)``` som tar in radien på ett klot och ger tillbaka dess volym.
+2. Skapa en metod ```String reverse(Strings str)``` som tar in en ```String``` och returnerar den baklänges.
+3. Skapa en metod ```int count(String str, char c)``` Som tar in en ```String str``` och en ```char c``` och returnerar hur många gånger ```c``` förekommer i ```str```.
+4. Skapa en metod ```String sjorovare(String str)``` som tar in en ```String``` och returnerar dess motsvarighet i [sjörövarspråket](https://sv.wikipedia.org/wiki/R%C3%B6varspr%C3%A5ket)
 
-4. En metod som räknar ut skillnad mellan två givna värden.
-```java
-static double delta(double first, double last)
-delta(1,10) => 9
-```
-
-5. En metod som räknar ut volymen hos en sfär.
-```java
-static double volumeOfSphere(double radius)
-volumeOfSphere(10) => 4186.67
-```
+### Lägg upp det på din GitHub innan 4/11 23:59 och mejla länken till mig på tomas.weis@ntig.se.
