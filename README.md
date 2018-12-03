@@ -27,16 +27,16 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [42](#grovplanering) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
 [43](#grovplanering) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
 [44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | *null*
-[45](#grovplanering) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer 
-[46](#grovplanering) | Sökning | Sortering | *[Bonusuppgift](#grovplanering) från Kattis* 
-[47](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
+[45](#grovplanering) | Repetition  | Repetition | Repetition 
+[46](#grovplanering) | Repetition  | Repetition | Repetition 
+[47](#grovplanering) | Repetition  | Repetition | Repetition 
 [48](#grovplanering) | Repetition på allting hittills | Grupparbete ordlista | *[Bonusuppgift](#grovplanering) från Kattis* 
-[49](#grovplanering) | Jobba i grupper | Ordförhör/Presentation | *[Bonusuppgift](#grovplanering) från Kattis* 
-[50](#grovplanering) | Övningsuppgifter till provet | Buffert/Plugga till provet | *null* 
-[51](#grovplanering) | Buffert/Plugga till provet | **PROV** | *Provet* 
+[49](#grovplanering) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer
+[50](#grovplanering) | Sökning | Sortering | *[Bonusuppgift](#grovplanering) från Kattis*
+[51](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
 [52](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
 [01](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
-[02](#grovplanering) | TBA | TBA | TBA 
+[02](#grovplanering) | Repetition på allting hittills | Grupparbete ordlista | *[Bonusuppgift](#grovplanering) från Kattis*  
 
 # Arbetsområden
 
