@@ -31,7 +31,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [46](#grovplanering) | Repetition  | Repetition | Repetition 
 [47](#grovplanering) | Repetition  | Repetition | Repetition 
 [48](#grovplanering) | Repetition  | Repetition | Repetition 
-[49](#grovplanering) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer
+[49](#grovplanering) | Arrayer  | Arrayer fortsättning | Uppgift om Arrayer
 [50](#grovplanering) | Sökning | Sortering | *[Bonusuppgift](#grovplanering) från Kattis*
 [51](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
 [52](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
