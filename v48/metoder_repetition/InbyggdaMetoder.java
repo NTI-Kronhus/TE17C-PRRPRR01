@@ -49,7 +49,7 @@ public class InbyggdaMetoder {
 
 			// Kolla första tecknet
 			if (str.charAt(0) == 'J' || str.charAt(0) == 'j' || str.contains("j")) {
-//				System.out.println("DU böRJAR PÅ J");
+				System.out.println("DU böRJAR PÅ J");
 			}
 
 			// Gör första bokstaven stor
