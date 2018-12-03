@@ -16,10 +16,11 @@ Utgå från arrayerna ovan och skriv 10 metoder i samma klass för att svara på
 3. Vilket nummer finns det flest respektive minst utav i ```numbers```?
 4. På vilket **index** finns namnet Drusilla i ```names```?
 5. Vad är summan av alla jämna tal i ```numbers```?
-6. Hur många finns det av varje tal i ```numbers```? <br>
-	*(antal 1:or, antal 2:or ...)*
-7. Hur många namn börjar på bokstaven L i ```names```?
-8. Hur många namn är fem bokstäver långa i ```names```?<br><br>**Svårare uppgifter:**
+6. Hur många namn börjar på bokstaven L i ```names```?
+7. Hur många namn är fem bokstäver långa i ```names```?<br><br>**Svårare uppgifter:**
 
+8. Hur många finns det av varje tal i ```numbers```? <br>
+	*(antal 1:or, antal 2:or ...)*
 9. Hur många unika namn finns det i ```names```?
 10. Vilket är det namn som förekommer flest gånger i ```names```?
+
