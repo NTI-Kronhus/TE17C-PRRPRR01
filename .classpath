@@ -17,7 +17,7 @@
 	<classpathentry kind="src" path="Läxa"/>
 	<classpathentry kind="src" path="v49"/>
 	<classpathentry kind="src" path="v50"/>
-	<classpathentry kind="src" path="v2"/>
+	<classpathentry kind="src" path="w2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_181"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
