@@ -39,7 +39,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [02](#grovplanering) | Repetition på allting hittills | Switch statements | "Skapa egen meny" uppgift  
 [03](#grovplanering) | Switch statements | Grupparbete ordlista + utdelning Övningsprov
 [04](#grovplanering) | Grupparbete ordlista | Ordförhör/Presentation
-[05](#grovplanering) | Ordförhör/Presentation | Repetition
+[05](#grovplanering) | Repetition | Repetition
 [06](#grovplanering) | Prov | Gå igenom prov
 [07](#grovplanering) | **SPORTLOV** | **SPORTLOV** |
 
