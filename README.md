@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Uppgift Metoder](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42/uppgift_metoder)
+### [Att plugga till provet](https://github.com/NTIGBG/TE17C-PRRPRR01/tree/master/w05/repetition)
 
 
 # Bra länkar om programmering:
