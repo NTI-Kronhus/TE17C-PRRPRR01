@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Att plugga till provet](https://github.com/NTIGBG/TE17C-PRRPRR01/tree/master/w05/repetition)
+### [Facit till provet](https://github.com/NTI-Kronhus/TE17C-PRRPRR01/blob/master/Facit%20-%20Programmeringsprov.pdf)
 
 
 # Bra länkar om programmering:
