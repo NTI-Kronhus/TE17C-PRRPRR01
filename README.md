@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Uppgift Metoder](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42/uppgift_metoder)
+### [Facit till provet](https://github.com/NTI-Kronhus/TE17C-PRRPRR01/blob/master/Facit%20-%20Programmeringsprov.pdf)
 
 
 # Bra länkar om programmering:
@@ -37,10 +37,11 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [52](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
 [01](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
 [02](#grovplanering) | Repetition på allting hittills | Switch statements | "Skapa egen meny" uppgift  
-[03](#grovplanering) | Switch statements | Övningsprov
-[04](#grovplanering) | Prov | Gå igenom prov
-[05](#grovplanering) | Grupparbete ordlista | Ordförhör/Presentation
-[06](#grovplanering) | Ordförhör/Presentation | Buffert
+[03](#grovplanering) | Switch statements | Grupparbete ordlista + utdelning Övningsprov
+[04](#grovplanering) | Grupparbete ordlista | Ordförhör/Presentation
+[05](#grovplanering) | Repetition | Repetition
+[06](#grovplanering) | Prov | Gå igenom prov
+[07](#grovplanering) | **SPORTLOV** | **SPORTLOV** |
 
 # Arbetsområden
 
