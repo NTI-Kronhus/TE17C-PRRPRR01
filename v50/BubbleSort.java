@@ -61,7 +61,7 @@ public class BubbleSort {
      * Metoden skriver ut en int array, sorterad eller osorterad
      * @param randomNumbers
      */
-    static void printIntArray(int[] randomNumbers) {
+     void printIntArray(int[] randomNumbers) {
 
         for (int j :
                 randomNumbers) {

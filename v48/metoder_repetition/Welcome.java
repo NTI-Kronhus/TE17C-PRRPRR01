@@ -7,7 +7,7 @@ public class Welcome {
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
-		String name;
+		String name ="Toms";
 		String name2;
 		
 		System.out.println("Hej! Vad heter du och din mamma?");
