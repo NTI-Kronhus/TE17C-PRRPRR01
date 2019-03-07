@@ -43,6 +43,8 @@ public class arrayList {
 			System.out.println((alist.get(i)).intValue()); // gör om Integer till en int i syfte att utföra
 														   // aritmetiska operationer och skriver ut dem
 		}
+		
+		System.out.println(alist);
 	}
 
 }
