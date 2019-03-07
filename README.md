@@ -45,7 +45,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [08](#grovplanering) | Gissa Tal | Gissa Tal
 [09](#grovplanering) | Gissa Tal | Gissa Tal
 [10](#grovplanering) | Gissa Tal - inlämningsdeadline! | ArrayList
-[11](#grovplanering) | ArrayList | Kattisuppgift med Arraylist
+[11](#grovplanering) | ArrayList | Kattisuppgift med Arraylist | [Securedoors](https://open.kattis.com/problems/securedoors)
 [12](#grovplanering) | Kattisuppgift med Arraylist | Kattisuppgift med Arraylist
 # Arbetsområden
 
