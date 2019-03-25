@@ -20,6 +20,7 @@
 	<classpathentry kind="src" path="w2"/>
 	<classpathentry kind="src" path="w10"/>
 	<classpathentry kind="src" path="w02"/>
+	<classpathentry kind="src" path="SecureDoors"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
