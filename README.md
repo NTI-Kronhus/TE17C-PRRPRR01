@@ -81,7 +81,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [13](#grovplanering) | Kompletteringar | Fysik med Henrik
 [14](#grovplanering) | Introduktion Hänga gubbe | Hänga gubbe
 [15](#grovplanering) | Hänga gubbe - Planering ska vara klar | Hänga gubbe 
-[07](#grovplanering) | **PÅSKLOV** | **PÅSKLOV** |
+[16](#grovplanering) | **PÅSKLOV** | **PÅSKLOV** |
 [17](#grovplanering) | Hänga gubbe | Hänga gubbe
 [18](#grovplanering) | Hänga gubbe | Hänga gubbe - Spelet ska vara klart
 [19](#grovplanering) | Hänga gubbe | Hänga gubbe - Utvärdering
