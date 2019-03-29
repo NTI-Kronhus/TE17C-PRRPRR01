@@ -1,7 +1,5 @@
 # Aktuell information:
 
-# Aktuell information:
-
 # Hänga gubbe 
 
 ### Uppgiften går ut på att ni ska planera och skapa ett hänga gubbe-spel i Java. <br>
