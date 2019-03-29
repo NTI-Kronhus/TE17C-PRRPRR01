@@ -78,6 +78,14 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [10](#grovplanering) | Gissa Tal - inlämningsdeadline! | ArrayList
 [11](#grovplanering) | ArrayList | Kattisuppgift med Arraylist | [Securedoors](https://open.kattis.com/problems/securedoors)
 [12](#grovplanering) | Kattisuppgift med Arraylist | Kattisuppgift med Arraylist
+[13](#grovplanering) | Kompletteringar | Fysik med Henrik
+[14](#grovplanering) | Introduktion Hänga gubbe | Hänga gubbe
+[15](#grovplanering) | Hänga gubbe - Planering ska vara klar | Hänga gubbe 
+
+[17](#grovplanering) | Hänga gubbe | Hänga gubbe
+[18](#grovplanering) | Hänga gubbe | Hänga gubbe - Spelet ska vara klart
+[19](#grovplanering) | Hänga gubbe | Hänga gubbe - Utvärdering
+
 # Arbetsområden
 
 ### Vecka 34-40   Introduktion
