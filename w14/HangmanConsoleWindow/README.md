@@ -15,7 +15,7 @@ Exempel med användning av HangmanConsoleWindow:
 ```java
 package hangman;
 
-import jaok.HangmanConsoleWindow;
+import hangman.HangmanConsoleWindow;
 
 public class hangman_main {
 
