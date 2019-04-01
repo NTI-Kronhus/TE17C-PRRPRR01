@@ -23,7 +23,7 @@ public class hangman_main {
 
 		HangmanConsoleWindow hcw = new HangmanConsoleWindow();
     
-    hcw.println("Välkommen");
+    		hcw.println("Välkommen");
 
 	}
 
