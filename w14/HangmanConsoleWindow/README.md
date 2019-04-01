@@ -13,8 +13,6 @@
 
 Exempel med användning av HangmanConsoleWindow:
 ```java
-package hangman;
-
 import hangman.HangmanConsoleWindow;
 
 public class hangman_main {
