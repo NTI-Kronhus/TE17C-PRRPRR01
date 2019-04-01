@@ -12,7 +12,7 @@
 
 
 Exempel med användning av HangmanConsoleWindow:
-```
+```java
 package hangman;
 
 import jaok.HangmanConsoleWindow;
