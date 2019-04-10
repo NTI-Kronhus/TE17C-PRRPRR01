@@ -6,8 +6,8 @@
 
 #### En färdig planering ska lämnas in vecka 15!
 
-#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen vecka 17!
-#### Utvärderingen gör vi separat vecka 18. <br>*Desto bättre man dokumenterar desto lättare bli utvärderingen att göra och få bra betyg på!*
+#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen vecka 18!
+#### Utvärderingen gör vi separat vecka 19. <br>*Desto bättre man dokumenterar desto lättare bli utvärderingen att göra och få bra betyg på!*
 
 ### Planering:
 - Hur ska händelseförloppet gå till?
