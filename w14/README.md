@@ -26,7 +26,7 @@
 - All kod ska vara tydligt kommenterad och/eller dokumenterad med JavaDoc. En inlämning utan kommentarer kommer inte att godkännas!
 
 ### Utvärdering:
-- TBA
+- [Här](https://github.com/NTI-Kronhus/TE17C-PRRPRR01/tree/master/w19)
 
 
 #### Uppgiften är i högsta grad betygsgrundande och desto bättre kod och mer funktionallitet spelet innehåller desto högre betyg kan du uppnå på uppgiften. Använd också GitHub för att göra commits och dokumentera din kodutveckling!
