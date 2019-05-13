@@ -1,6 +1,10 @@
 # Aktuell information:
 
-DEADLINE måndag 20/5 kl 23:59!!
+DEADLINE  för Hänga gubbe uppgiften är måndag 20/5 kl 23:59!!
+
+Se till att lägga in planeringen, koden och utvärderingen i samma mapp på Github, comitta och mejla länken till mig!
+
+Nu kör vi så det ryker! :)
 
 # Hänga gubbe 
 
