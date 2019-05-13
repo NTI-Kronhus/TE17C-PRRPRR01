@@ -1,5 +1,7 @@
 # Aktuell information:
 
+DEADLINE måndag 20/5 kl 23:59!!
+
 # Hänga gubbe 
 
 ### Uppgiften går ut på att ni ska planera och skapa ett hänga gubbe-spel i Java. <br>
